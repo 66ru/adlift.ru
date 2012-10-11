@@ -70,22 +70,22 @@ body {
 }
 
 /* ===================
-    ALL: Orange Theme
+    ALL: Orange Theme (not any more)
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 20px solid #000000;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-top: 20px solid #757575;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #757575;
 }
 
 .title {
